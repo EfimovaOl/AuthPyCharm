@@ -1,6 +1,6 @@
 url: https://test-stand.gb.ru/gateway/login
 address: https://test-stand.gb.ru/api/posts
 
-login: GB20230513b374
-password: 1c94d0d3f7
-token: 411cb4a077596cf2346c7763c45170f7
+login: login
+password: password
+token: token
