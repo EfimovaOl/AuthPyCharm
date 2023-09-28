@@ -21,7 +21,7 @@ def test_step(user_login, post_title):
     assert post_title in result_title, 'test_step FAIL'
 
 def test_step1(post):
-    assert 'Anything' in post, 'test_step FAIL'
+    assert 'Anything' in post, 'test_step1 FAIL'
 
 
 
