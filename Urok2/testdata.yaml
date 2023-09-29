@@ -1,9 +1,4 @@
 
-#username: "GB20230513b374"
-#password: "1c94d0d3f7"
-#username: Gonaп
-#password: 0646077496
-
 address: http://test-stand.gb.ru
 sleep_time: 5
 browser:  chrome
