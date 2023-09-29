@@ -1,0 +1,15 @@
+
+#username: "GB20230513b374"
+#password: "1c94d0d3f7"
+#username: Gonaп
+#password: 0646077496
+
+address: http://test-stand.gb.ru
+sleep_time: 5
+browser:  chrome
+username: 2gb02305
+password: b4d394311e
+title: "title: Test post. auto"
+description: "description: Test post. auto"
+content: "Content: Test post. auto"
+#browser: firefox
