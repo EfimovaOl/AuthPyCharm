@@ -1,0 +1,26 @@
+2023-10-03 10:00:35 INFO ====== WebDriver manager ======
+2023-10-03 10:00:38 INFO Get LATEST chromedriver version for google-chrome
+2023-10-03 10:00:45 INFO Get LATEST chromedriver version for google-chrome
+2023-10-03 10:00:47 INFO Driver [C:\Users\Sonya\.wdm\drivers\chromedriver\win64\117.0.5938.92\chromedriver-win32/chromedriver.exe] found in cache
+2023-10-03 10:00:50 INFO test: invalide autorization start
+2023-10-03 10:00:57 INFO Send word "test" in element #login > div:nth-child(1) > label > input
+2023-10-03 10:00:57 INFO Send word "test" in element #login > div:nth-child(2) > label > input
+2023-10-03 10:00:57 INFO click login button
+2023-10-03 10:00:58 INFO we find text "401" in error field  #app > main > div > div > div.error-block.svelte-uwkxn9 > h2
+2023-10-03 10:00:59 INFO Send word "2gb02305" in element #login > div:nth-child(1) > label > input
+2023-10-03 10:00:59 INFO Send word "b4d394311e" in element #login > div:nth-child(2) > label > input
+2023-10-03 10:00:59 INFO click login button
+2023-10-03 10:01:01 INFO we find text "Hello, 2gb02305" in error field  #app > main > nav > ul > li.svelte-1rc85o5.mdc-menu-surface--anchor > a
+2023-10-03 10:01:01 INFO click button "new post"
+2023-10-03 10:01:02 INFO Send word "title: Test post. auto" in element #create-item > div > div > div:nth-child(1) > div > label > input
+2023-10-03 10:01:02 INFO Send word "description: Test post. auto" in element #create-item > div > div > div:nth-child(2) > div > label > span > textarea
+2023-10-03 10:01:02 INFO Send word "Content: Test post. auto" in element #create-item > div > div > div:nth-child(3) > div > label > span > textarea
+2023-10-03 10:01:02 INFO click  button "save post"
+2023-10-03 10:01:04 INFO we find text "title: Test post. auto" in error field#app > main > div > div.container.svelte-tv8alb > h1
+2023-10-03 10:01:04 INFO click button "Contact"
+2023-10-03 10:01:04 INFO click button "Contact"
+2023-10-03 10:01:04 INFO Send word "2gb02305" in field #contact > div:nth-child(1) > label > input
+2023-10-03 10:01:04 INFO Send word "Ka4mi@mail.ru" in field #contact > div:nth-child(2) > label > input
+2023-10-03 10:01:04 INFO Send word "content contact us" in field #contact > div:nth-child(3) > label > span > textarea
+2023-10-03 10:01:04 INFO click button "Contact us"
+2023-10-03 10:01:07 INFO get alert text "Form successfully submitted"

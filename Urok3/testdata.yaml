@@ -1,0 +1,12 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser:  chrome
+username: 2gb02305
+password: b4d394311e
+title: "title: Test post. auto"
+description: "description: Test post. auto"
+content: "Content: Test post. auto"
+Contact_us: "Contact us!"
+email: "Ka4mi@mail.ru"
+content_CU: "content contact us"
+alert: "Form successfully submitted"
