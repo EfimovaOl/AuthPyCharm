@@ -1,0 +1,5 @@
+login: '2gb02305'
+password: 'b4d394311e'
+url_base: 'https://test-stand.gb.ru'
+url_get: 'https://test-stand.gb.ru/api/users/profile'
+url_auto: 'https://test-stand.gb.ru/gateway/login'
